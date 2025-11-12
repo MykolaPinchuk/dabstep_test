@@ -82,6 +82,10 @@ venv.bak/
 /notebooks/runs/
 /logs/
 
+# Track results files (override *.csv and *.json ignores)
+!results/
+!results/**
+
 # HuggingFace cache
 /home/*/.cache/huggingface/
 ~/.cache/huggingface/
