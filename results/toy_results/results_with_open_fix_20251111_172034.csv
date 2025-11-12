@@ -1,0 +1,2 @@
+timestamp,model,question,total_steps,total_agent_time_s,notebook_runtime_s,input_tokens,output_tokens,answer
+2025-11-11T17:20:34.718688,z-ai/glm-4.6,What are the unique set of merchants in the payments data?,6,13.45,14.48,18118,860,"Belles_cookbook_store,Crossfit_Hanna,Golfclub_Baron_Friso,Martinis_Fine_Steakhouse,Rafa_AI"

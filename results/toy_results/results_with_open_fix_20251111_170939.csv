@@ -1,0 +1,2 @@
+timestamp,model,question,total_steps,total_agent_time_s,notebook_runtime_s,input_tokens,output_tokens,answer
+2025-11-11T17:09:39.490712,x-ai/grok-4-fast,What are the unique set of merchants in the payments data?,2,6.37,-12.64,2360,942,"Belles_cookbook_store,Crossfit_Hanna,Golfclub_Baron_Friso,Martinis_Fine_Steakhouse,Rafa_AI"
